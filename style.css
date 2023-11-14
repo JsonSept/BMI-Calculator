@@ -1,0 +1,15 @@
+#container {
+    background-color: darkblue;
+    color: white;
+    height: 30vh;
+    width: 200px;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 45%;
+
+}
+
+body {
+    background-color: black;
+}
+
